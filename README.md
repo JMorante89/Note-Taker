@@ -1,4 +1,4 @@
-# [Note Taker](https://jmorante89.github.io/Note-Taker-Project/)
+# [Note Taker](https://jmorante89.github.io/Note-Taker/)
 
   ## Table of Contents
   - [Description](#description📝)
@@ -14,7 +14,7 @@ Introducing the sophisticated US Weather Dashboard that offers comprehensive wea
 
 ## Installation💻
 The provided URL will redirect users to a user-friendly website, obviating the need for any user-initiated installations. This application supports most browsers.
-- [Live Demo Link](https://jmorante89.github.io/Note-Taker-Project/)
+- [Live Demo Link](https://jmorante89.github.io/Note-Taker/)
 
 ## Usage👨‍💻
 ### The homepage offers easy access to key features such as the US City Search form, a 5-Day forecast, and a 5-Day Search History. It also prominently displays today's weather conditions below the Search form, providing humidity and wind speed information for user convenience. 
