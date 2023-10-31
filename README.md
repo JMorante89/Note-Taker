@@ -17,22 +17,24 @@ The provided URL will redirect users to a user-friendly website, obviating the n
 - [Live Demo Link](https://jmorante89.github.io/Note-Taker/)
 
 ## Usage👨‍💻
-### The homepage offers easy access to key features such as the US City Search form, a 5-Day forecast, and a 5-Day Search History. It also prominently displays today's weather conditions below the Search form, providing humidity and wind speed information for user convenience. 
+### The homepage introduces you to the app.  Click "Get Started" to continue. 
 ![](./assets/images/Homepage.png)
 
-### To start just click on the Search form and type the desired US city. Then click the search icon or press ENTER.
+### A sample note is included to show the user how Notes are stored in their system.  To ADD a note, simply start typing where it says "Note Tile". You will see a clear form option if you want to restart the note.
 ![](./assets/images/SearchCity.png)
 
-### The page will load Todays date and current weather, including the following 5 days in the forecast. Your search will automatically be saved below in the Search history.
+### The application will show you a save button once you fill the "Note Text" form to finalize your note.
 ![](./assets/images/SearchResults.png)
 
-### The most recent 5 US city searches will be saved on the bottom of the screen even if you reload the
+### Your note will be saved on the left side, with a red delete option to manage your notes appropriately.
 ![](./assets/images/SearchHistory.png)
 
 
 ## Features🎁
-    -Easy UI to to keep track of employees
-    -
+    -Easy UI to to add Notes
+    -Add and Delete Notes 
+    -Title and note text underneath for easy visibility
+
 
  ## Credits📣
 - Daniel Morante 
@@ -40,7 +42,6 @@ The provided URL will redirect users to a user-friendly website, obviating the n
 
 ## Resources🛠️
 - GWU tutoring
-- inquirer@8.2.4
 
 ## Licenses🔍
 [![License](https://img.shields.io/badge/License-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![License](https://img.shields.io/badge/License-GNU-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html) [![License](https://img.shields.io/badge/License-MPL_2.0-blue.svg)](https://www.mozilla.org/en-US/MPL/2.0/) 
