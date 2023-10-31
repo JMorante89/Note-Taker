@@ -10,7 +10,7 @@
   - [License](#licenses🔍)
 
 ## Description📝
-Introducing the sophisticated US Weather Dashboard that offers comprehensive weather information at your fingertips. This dashboard not only presents you with today's weather, including humidity and wind speeds, but also provides a five-day weather forecast, ensuring that you stay well-informed about the upcoming days. Moreover, it maintains a convenient search history of your last five queries, allowing you to track and review your previous searches with ease.
+This versatile note-taking application empowers users to effortlessly capture and save their thoughts and important information. It offers features like easy note composition for various purposes, organized note storage, review and editing capabilities, and the option to delete notes. With a user-friendly interface, it simplifies the note-taking process, ensuring secure storage and easy access. Users can experience efficient note-taking and organization with this innovative application, enhancing their ability to manage ideas effortlessly.
 
 ## Installation💻
 The provided URL will redirect users to a user-friendly website, obviating the need for any user-initiated installations. This application supports most browsers.
@@ -31,22 +31,16 @@ The provided URL will redirect users to a user-friendly website, obviating the n
 
 
 ## Features🎁
-    -Easy UI to find a US city 6 day forecast.  
-    -Application shows temperature, humidity and windspeed in an easy to read format.  
-    -The search history feature provides users with the convenience of not having to recall their previous search queries.
+    -Easy UI to to keep track of employees
+    -
 
  ## Credits📣
 - Daniel Morante 
   [Github Profile JMorante89](https://github.com/JMorante89)
 
 ## Resources🛠️
-- [The Coding Bootcamp, starter code](https://github.com/coding-boot-camp/crispy-octo-meme)
 - GWU tutoring
-- [Google Font](https://fonts.google.com/specimen/Open+Sans)
-- The project made use of the following APIs to aid in its development:
-  - [jQuery](https://jquery.com/)
-  - [Bootstrap](https://getbootstrap.com/)
-  - [Day.js](https://day.js.org/)
+- inquirer@8.2.4
 
 ## Licenses🔍
 [![License](https://img.shields.io/badge/License-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![License](https://img.shields.io/badge/License-GNU-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html) [![License](https://img.shields.io/badge/License-MPL_2.0-blue.svg)](https://www.mozilla.org/en-US/MPL/2.0/) 
