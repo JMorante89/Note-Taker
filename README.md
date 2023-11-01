@@ -1,4 +1,4 @@
-# [Note Taker](https://jmorante89.github.io/Note-Taker/)
+# [Note Taker](https://haunted-hollow-79081-4180e38c08f6.herokuapp.com/notes)
 
   ## Table of Contents
   - [Description](#description📝)
@@ -14,20 +14,23 @@ This versatile note-taking application empowers users to effortlessly capture an
 
 ## Installation💻
 The provided URL will redirect users to a user-friendly website, obviating the need for any user-initiated installations. This application supports most browsers.
-- [Live Demo Link](https://jmorante89.github.io/Note-Taker/)
+- [Live Demo Link](https://haunted-hollow-79081-4180e38c08f6.herokuapp.com/notes)
 
 ## Usage👨‍💻
 ### The homepage introduces you to the app.  Click "Get Started" to continue. 
-![](./assets/images/Homepage.png)
+![](./public/assets/images/Homepage.png)
 
-### A sample note is included to show the user how Notes are stored in their system.  To ADD a note, simply start typing where it says "Note Tile". You will see a clear form option if you want to restart the note.
-![](./assets/images/SearchCity.png)
+### A sample note is included to show the user how Notes are stored in their system.  To ADD a note, simply start typing where it says "Note Tile". You will see a clear form option(on the top righ corner) if you want to clear the note.
+![](./public/assets/images/StarterNoteTitle.png)
 
 ### The application will show you a save button once you fill the "Note Text" form to finalize your note.
-![](./assets/images/SearchResults.png)
+![](./public/assets/images/SaveNoteOption.png)
 
 ### Your note will be saved on the left side, with a red delete option to manage your notes appropriately.
-![](./assets/images/SearchHistory.png)
+![](./public/assets/images/SavedNote.png)
+
+### Click on your note to see the saved details.
+![](./public/assets/images/SavedNoteDetails.png)
 
 
 ## Features🎁
